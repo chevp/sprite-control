@@ -3,7 +3,7 @@
 
 ## Overview
 
-`sprite-control` is a C# backend server designed to manage an avatar's actions, ultimate abilities (ulti), and scene states through a state machine. The server is built to facilitate dynamic control over avatars, enabling them to transition between various states while controlling key aspects like abilities and interactions within the scene.
+`sprite-control` is a CSharp backend server designed to manage an avatar's actions, ultimate abilities (ulti), and scene states through a state machine. The server is built to facilitate dynamic control over avatars, enabling them to transition between various states while controlling key aspects like abilities and interactions within the scene.
 
 The state machine enables smooth transitions and management of avatar states, such as idle, movement, attacks, and ultimate abilities. It also manages the scene, ensuring that interactions are handled appropriately.
 
