@@ -26,7 +26,7 @@ The state machine enables smooth transitions and management of avatar states, su
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sprite-control.git
+git clone https://github.com/chevp/sprite-control.git
 cd sprite-control
 ```
 
