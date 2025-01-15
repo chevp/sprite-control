@@ -1,0 +1,107 @@
+﻿{
+  "id": 1400,
+  "params": {
+    "cmd": "clear"
+  },
+  "cmdItems": [
+    {
+      "cmd": 1,
+      "nodeGroup": {
+        "id": 1400,
+        "nodeGroup": {
+          "gltfId": 1,
+          "nodeName": "Hello",
+          "shader": 0,
+          "defaultGltfIndex": 100,
+          "highResolutionGltfIndex": 100,
+          "gltfFilepath": "C:/resources/vkpbr1/models/damaged-helmet/glTF/DamagedHelmet.gltf"
+        }
+      }
+    },
+    {
+      "cmd": 1,
+      "nodeGroup": {
+        "id": 1401,
+        "nodeGroup": {
+          "gltfId": 2,
+          "nodeName": "Hello",
+          "shader": 0,
+          "defaultGltfIndex": 100,
+          "highResolutionGltfIndex": 100,
+          "gltfFilepath": "C:/resources/vkpbr1/models/damaged-helmet/glTF-low/DamagedHelmet.gltf"
+        }
+      }
+    },
+    {
+      "cmd": 1,
+      "nodeGroup": {
+        "id": 1401,
+        "nodeGroup": {
+          "gltfId": 3,
+          "nodeName": "Hello",
+          "shader": 0,
+          "defaultGltfIndex": 100,
+          "highResolutionGltfIndex": 100,
+          "gltfFilepath": "C:/resources/vkpbr1/models/ultimate-modular-women/gltf/SciFi.gltf"
+        }
+      }
+    },
+    {
+      "cmd": 1,
+      "node": {
+        "id": 100,
+        "node": {
+          "nodeGroupId": 1,
+          "gltfId": 1,
+          "px": 0,
+          "py": 8,
+          "pz": 0,
+          "rx": 1.1,
+          "ry": 1.1,
+          "rz": 1.1,
+          "rw": 1.1,
+          "animation": 1.1,
+          "quality": 0
+        }
+      }
+    },
+    {
+      "cmd": 1,
+      "node": {
+        "id": 101,
+        "node": {
+          "nodeGroupId": 1,
+          "gltfId": 2,
+          "px": -2,
+          "py": 10,
+          "pz": 0,
+          "rx": 1.1,
+          "ry": 1.1,
+          "rz": 1.1,
+          "rw": 1.1,
+          "animation": 1.1,
+          "quality": 0
+        }
+      }
+    },
+    {
+      "cmd": 1,
+      "node": {
+        "id": 102,
+        "node": {
+          "nodeGroupId": 3,
+          "gltfId": 3,
+          "px": 0,
+          "py": 0,
+          "pz": 0,
+          "rx": 0,
+          "ry": 0,
+          "rz": 0,
+          "rw": 0,
+          "animation": 0,
+          "quality": 0
+        }
+      }
+    }
+  ]
+}

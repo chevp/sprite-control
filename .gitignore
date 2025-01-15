@@ -1,0 +1,92 @@
+# User-specific files
+.vs/
+.vs2019/
+.vs2017/
+.idea/
+.vscode/
+
+# User-specific files for Visual Studio for Mac
+.idea/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ebug\_x86/
+[Dd]ebug\_x64/
+[Dd]ebug\_AnyCPU/
+[Dd]ebug\_x64/
+[Dd]ebug\_AnyCPU/
+[Dd]ebug\_ARM/
+[Dd]ebug\_x86/
+[Dd]Release/
+[Dd]ReleasePublic/
+[Dd]Release\_x86/
+[Dd]Release\_x64/
+[Dd]Release\_AnyCPU/
+bin/
+obj/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+appsettings.json
+appsettings.Development.json
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (Visual Studio)
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Windows Installer
+*.nupkg
+*.snupkg
+*.vsix
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Package directories
+**/packages/
+
+# Windows Installer
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Exclude .vs files (for Visual Studio)
+.vs2019/
+.vs2017/
+.vs/
+
+# Ignore build output directories
+bin/
+obj/
+
+# NuGet packages directory
+.nuget/
+
+# NPM packages directory
+node_modules/
+
+# JetBrains Rider files
+.idea/
+
+# User settings
+.vscode/
+
+# ASP.NET files
+appsettings.*
