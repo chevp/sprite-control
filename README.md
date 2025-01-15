@@ -1,5 +1,5 @@
 
-# Sprite-Control - C# Backend Server with State Machine
+# Sprite Control
 
 ## Overview
 
